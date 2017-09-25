@@ -1,3 +1,4 @@
 "use strict"
 
-var nani = 4;
+var nani = 1;
+var lala = 100;
