@@ -1,3 +1,3 @@
 "use strict"
 
-var nima = 1;
+var nima = 3;
