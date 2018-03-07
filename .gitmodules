@@ -1,0 +1,4 @@
+[submodule "vue-sample-project"]
+	path = vue-sample-project
+	url = git@github.com:alex404A/vue-sample-project.git
+  branch = master
